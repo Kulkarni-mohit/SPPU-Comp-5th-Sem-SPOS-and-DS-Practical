@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "jni_jni.h": "c"
+    },
+    "java.project.sourcePaths": [
+        "SPOS/B3_Page Replacement",
+        "SPOS/B2_Memory Placement Strategy",
+        "SPOS/B1_CPU Scheduling",
+        "SPOS/A2_Macro/Pass_1",
+        "SPOS/A1_Assembler/Pass_1",
+        "SPOS/A3_Dynamic Link Library"
+    ]
+}
